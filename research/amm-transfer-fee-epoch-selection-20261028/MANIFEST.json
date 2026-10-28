@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "files": {
+    "README.md": "4a9f57af891ee86a4092607591836ba358decff31c56f891892e48e44e8f1155",
+    "producer.py": "af358511d0c25adafc73597a1e996385be9d55913268a49c560632773746eb3b",
+    "runtime/raw-transactions.jsonl.gz": "419cdd87a57ad1dd392206eb271c3f8d8ce6c3a9c819e6bb93528443eacee048",
+    "runtime/report.json.gz": "088d817e7331c80ef14e226bc2e302964bb8eef536772723811b18d8e440cb1c",
+    "verify.py": "7c85c57560b0549db105815a6544c4b6e99b311b4e4e7ec8b04f013fe3b6f9e4"
+  },
+  "repository_inputs": {
+    "research/amm-multi-hop-group-slice-recovery/artifacts/candidate.so.gz": "1f25c51a89ed4c269dd7af1732c4a55dbc3fb908b6c9f5ecac69560cfe1026bd",
+    "research/amm-transfer-fee-diagnostic-recovery/artifacts/candidate.so.gz": "c00c011f12544cb7494e900efd99a3fcee7213a32e0257bf2e8f064d64d73453",
+    "research/imported-lab/analysis/pump_fun/amm-v2-trade-fixture.json": "2e775505852caf55203c826ee08b9341aa275f52f59a933c4fb0740535ee316f",
+    "research/imported-lab/analysis/pump_fun/config-snapshot.json": "17b886a6b4aa7fdc89f2fca9a1b67b318d33998794da59fe4df1fe89ca70bd27",
+    "evidence/upstream/pump_amm.json": "b7d8c57a4d9c4dd0109a9ab893052352333252d4eedced10ac091d4d66cab89b",
+    "evidence/original/pump_amm/deployed.so": "6a7ad34596d83b4c435b32f458a56e718e9f82eb4ad38e4316616d15d24d8ff7",
+    "evidence/dependencies/spl_token/deployed.so": "8190d3f7ceb6cb7a7a8d8924bff89f9f611e15ce1f806f2b6237f3311a98f697",
+    "evidence/dependencies/spl_token_2022/deployed.so": "15a2e615a42e20f31714bbaaee43002ae6f1cda2e8d7118243117ab3c1342e2d"
+  }
+}
