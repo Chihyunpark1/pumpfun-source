@@ -1,0 +1,80 @@
+{
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "5e80e7d576653263a8f5f6f978437b42843f23a441d74d4aa80c157a43bf7fbd"
+    },
+    {
+      "path": "producer.py",
+      "sha256": "c748af4fd577dc3507e98044154abae2f56947bd7cc2e33b2e4e8bf315b76bb4"
+    },
+    {
+      "path": "runtime/raw-transactions-part01.jsonl.gz",
+      "sha256": "70993cbd3a1dffda973b9c470b2c559985f52c9e6df8eacae20f8b23aee3d1d1"
+    },
+    {
+      "path": "runtime/raw-transactions-part02.jsonl.gz",
+      "sha256": "a42ccf41aaf0c219042575f85acd3a91cbbbe796831a6dd7a217ffbcad488e79"
+    },
+    {
+      "path": "runtime/raw-transactions-part03.jsonl.gz",
+      "sha256": "72916e2d990aee30f9b36b97d17216b72061209c9b675503ffdfa9b6749be8cc"
+    },
+    {
+      "path": "runtime/raw-transactions-part04.jsonl.gz",
+      "sha256": "f907de68ec50b99b525fdbed95c9a5804fac9f3ec6d955db1ee9cb1029a2b89b"
+    },
+    {
+      "path": "runtime/raw-transactions-part05.jsonl.gz",
+      "sha256": "9b15b4ad6b263528d600c9f021e305dd99f7e6137a7050e04fdc8d2d17021bdd"
+    },
+    {
+      "path": "runtime/raw-transactions-part06.jsonl.gz",
+      "sha256": "4f6121ff56f4987d0a603ffe23797df28d5b87ddbee0e92478eaa3fe1398e514"
+    },
+    {
+      "path": "runtime/raw-transactions-part07.jsonl.gz",
+      "sha256": "88caa56af61b6d9dffaa59c4b75a0a28f07d114b199564ef2f3c566c5658a56d"
+    },
+    {
+      "path": "runtime/raw-transactions-part08.jsonl.gz",
+      "sha256": "1e166c2bf9643bdfe66f00d80fdc18f002fc168fc0330f04d6f6fd45638ca988"
+    },
+    {
+      "path": "runtime/raw-transactions-part09.jsonl.gz",
+      "sha256": "4651a7f3225addde2dbb9e0fa9c81b807c9e81c5c2c2086bd9c012fac3353c84"
+    },
+    {
+      "path": "runtime/raw-transactions-part10.jsonl.gz",
+      "sha256": "01cd7cfa07e157b9032e5cb8707769c403e5adcdbe43b43b52b9adf3f471661e"
+    },
+    {
+      "path": "runtime/raw-transactions-part11.jsonl.gz",
+      "sha256": "a59940246fef3a26dd86ded7b7077b23937c8ac1ec3bb4faf3026dfe44e846d6"
+    },
+    {
+      "path": "runtime/raw-transactions-part12.jsonl.gz",
+      "sha256": "cd496fba2a35d7d02e15e861d37b6b5b64f6aecd9ff8f6cdb31acff0ab947e1e"
+    },
+    {
+      "path": "runtime/raw-transactions-part13.jsonl.gz",
+      "sha256": "a703d9102302e23d5d571841c7a744a6cc0077e8f43d10c0023fd78adb7d6bea"
+    },
+    {
+      "path": "runtime/raw-transactions-part14.jsonl.gz",
+      "sha256": "8149e70026513080f757a887cdaebe64a8bf65c80d578d25b5fa3f49321e9f41"
+    },
+    {
+      "path": "runtime/raw-transactions-part15.jsonl.gz",
+      "sha256": "a55da5d349402d688a5cc3114ed9c524cdcff92c0bf9081e55b1feeb73364c89"
+    },
+    {
+      "path": "runtime/report.json.gz",
+      "sha256": "cbb47b5ba240181bccfabec7c098696661b88abecbc509a72440dea9c018f428"
+    },
+    {
+      "path": "verify.py",
+      "sha256": "f98a3527076e8b8eb69b5749b3c87e4464318dd9bb94dce35027758247c0ccce"
+    }
+  ]
+}
